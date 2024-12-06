@@ -1,0 +1,14 @@
+---
+title: Projects
+---
+
+## Interface Order Tracking
+
+In my current position I work closely with University Hospitals. I contributed to an orders interface project designed to enhance the tracking of lab orders as they exited EHR system. This initiative aimed to ensure seamless communication between systems, minimize errors, and improve operational efficiency. My role involved analyzing the workflow, ensuring data integrity, and implementing solutions to maintain a clear and traceable order flow. This project streamlined lab processes and supported better patient care outcomes.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

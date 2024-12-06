@@ -1,0 +1,14 @@
+---
+title: "Certifications"
+---
+
+In 2024, I earned a Health Informatics Certification from Case Western Reserve University, deepening my expertise in the integration of technology and healthcare to improve patient outcomes and system efficiency. I aim to build on this foundation by pursuing additional certifications in the near future to further expand my expertise and impact in the field.
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
